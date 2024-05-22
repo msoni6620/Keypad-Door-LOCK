@@ -1,7 +1,7 @@
 # KEYPAD_DOOR_LOCK <BR>
 
 ### Made by :MAYANK SONI <br>
-### *Date : 12/12/2018* <br>
+### *Date : 23/05/2024* <br>
 The project involves using an ESP32 microcontroller, a 4x4 keypad, and an electromagnetic lock to create a secure door lock system that requires a password for access. The system allows users to set and enter passwords to lock and unlock doors. If the correct password is entered, the ESP32 controls the electromagnetic lock to unlock the door. <br>
 
 # Key features and components include: <br>
