@@ -1,0 +1,6 @@
+# THIS IS PREREQUISITE LIBRARAY ARE REQUIRED TO INSTALL<br>
+
+1.ESP32Servo <br>
+2.LiquidCrystal I2C <br>
+3.Keypad <br>
+4.Password <br>
